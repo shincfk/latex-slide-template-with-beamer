@@ -1,6 +1,6 @@
 latex slide template with beamer
 
-课程设计时参考了一些beamer，logo倒是花了点时间，作为xaut slide通用模板倒不错。
+课程设计时参考了一些beamer，logo倒是花了点时间，作为xaut_slide通用模板倒不错，xelatex编译。
 
 附上了beamer_guide_cn，很好的beamer制作参考资料，关键是中文的哦。
 
